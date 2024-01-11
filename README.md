@@ -128,7 +128,7 @@ Display a farewell message and terminate the program.
 OUTPUTS 
 1)LOGIN/REGISTRATION OF DONORS 
 
-
+![alt text](C:\Users\TANISHKA\Pictures\Screenshots)
 
 
 
