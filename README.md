@@ -128,7 +128,8 @@ Display a farewell message and terminate the program.
 OUTPUTS 
 1)LOGIN/REGISTRATION OF DONORS 
 
-![alt text](C:\Users\TANISHKA\Pictures\Screenshots)
+<img src="![registration](https://github.com/Tanishaclippy/BloodBankmanagement/assets/127332784/73139b89-ded9-4999-a4ce-26b63c926879)
+" alt="My cool logo"/>
 
 
 
